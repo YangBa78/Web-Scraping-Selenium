@@ -1,3 +1,3 @@
 # Web-Scraping-Selenium
 
-Web Scraping with YouTube Channel and Instragram 
+Web Scraping with YouTube Channel and Instragram by Selenium 
